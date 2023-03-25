@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_quotation">Pide una nueva citacion</string>
+    <string name="favourite_quotation">citacion favorita</string>
+    <string name="settings">Ajustes</string>
+    <string name="about">Acerca</string>
+    <string name="text_about">Quotation Shake de  Adam Rahmoun  +41767135786  desarollado por DADM 2023</string>
+    <string name="quotation_menu">Citaciones</string>
+    <string name="favourite_menu">Favoritos</string>
+    <string name="photo_del_desarollador">Foto del desarollador</string>
+    <string name="button_of_favourite">Buton favorito</string>
+    <string name="welcome_message">Hola %1s!, Actualizar para obtener una nueva cita (deslizar hacia abajo o menú de opciones)</string>
+    <string name="refresh_quote">Refresca</string>
+    <string name="delete_all_quotations">Suprimir todas las citaciones</string>
+    <string name="network_error_message">No hay internet. Por favor, compruebe su conexión.</string>
+    <string name="server_error_message">Se ha producido un error en el servidor.</string>
+    <string name="unknown_error_message">Se ha producido un error inesperado.</string>
+    <string name="english">inglés</string>
+    <string name="russian">ruso</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="get_quotations_in">Obtenga citas en …</string>
+
+    <string name="username_hint">Escribe tu nombre</string>
+</resources>

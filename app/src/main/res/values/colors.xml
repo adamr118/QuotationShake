@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#008000</color>
+    <color name="Azure">#F0FFFF</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="purple">#400F45</color>
+    <color name="purple_darker">#45064C</color>
+    <color name="blue">#1D3166</color>
+    <color name="black">#000000</color>
+    <color name="cachecolor">#8ad0e8</color>
+    <color name="white">#B3B0A9</color>
+    <color name="red">#B71C1C</color>
+    <color name="grey_fade">#D8E4F4</color>
+
+
+    <color name="colorPrimary">#374D86</color>
+    <color name="colorPrimaryDark">#000F28</color>
+    <color name="colorAccent">#B71C1C</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#1D3166</color>
+    <color name="colorBackground">#E5E5E5</color>
+    <color name="colorOnBackground">#1D3166</color>
+
+</resources>

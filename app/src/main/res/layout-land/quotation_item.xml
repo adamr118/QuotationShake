@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:cardBackgroundColor="@color/grey_fade"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="4dp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/quote_tv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/colorPrimary"
+            android:justificationMode="inter_word"
+            android:padding="8dp"
+            android:textSize="18sp"
+            android:typeface="monospace"
+            android:gravity="center"
+            android:layout_gravity="center"
+            tools:text="citacion effff'  f'f'f' f'f'f'f'f"
+            app:layout_constraintBottom_toTopOf="@+id/author_name_tv"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent">
+
+        </com.google.android.material.textview.MaterialTextView>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/author_name_tv"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            tools:text="Descartes"
+            android:textStyle="italic"
+            android:gravity="end"
+            android:layout_marginEnd="56dp"
+            android:textSize="15sp"
+            android:textColor="@color/colorAccent"
+            app:layout_constraintTop_toBottomOf="@id/quote_tv">
+
+        </com.google.android.material.textview.MaterialTextView>
+
+    </LinearLayout>
+
+
+
+</com.google.android.material.card.MaterialCardView>

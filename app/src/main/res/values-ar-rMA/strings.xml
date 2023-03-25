@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_quotation">احصل على عرض أسعار جديد</string>
+    <string name="favourite_quotation">الاقتباس المفضل</string>
+    <string name="settings">إعدادات</string>
+    <string name="about">عن</string>
+    <string name="favourite_menu">المفضلة</string>
+    <string name="button_of_favourite">زر مفضل</string>
+    <string name="welcome_message">Hello %1s!,  قم بالتحديث للحصول على عرض أسعار جديد (اسحب لأسفل أو قائمة الخيارات)</string>
+    <string name="refresh_quote">ينعش</string>
+    <string name="delete_all_quotations">حذف كافة الاقتباسات</string>
+    <string name="text_about">Quotation Shake بواسطة آدم رحمون +41767135786 تم تطويره من أجل DADM 2023</string>
+    <string name="quotation_menu">الاقتباسات</string>
+    <string name="photo_del_desarollador">صورة المطور</string>
+    <string name="network_error_message">لا يوجد الإنترنت. يرجى التحقق من اتصالك.</string>
+    <string name="server_error_message">كان هناك خطأ في الخادم.</string>
+    <string name="unknown_error_message">حدث خطأ غير متوقع.</string>
+    <string name="english">الإنجليزية</string>
+    <string name="russian">الروسية</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="get_quotations_in">الحصول على الاقتباسات في ...</string>
+    <string name="username_hint">اكتب اسمك</string>
+</resources>
