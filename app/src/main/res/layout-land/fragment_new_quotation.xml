@@ -68,7 +68,7 @@
         android:id="@+id/button_favourite"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom|start"
+        android:layout_gravity="bottom|end"
         android:visibility = "invisible"
         android:contentDescription="@string/button_of_favourite"
         android:src="@drawable/favorite_24">
