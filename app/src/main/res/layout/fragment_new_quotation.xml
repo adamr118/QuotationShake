@@ -38,6 +38,7 @@
         app:layout_constraintHorizontal_bias="0.892"
         app:layout_constraintStart_toStartOf="@id/quote_tv"
         app:layout_constraintTop_toBottomOf="@id/quote_tv"
+        app:layout_constraintBottom_toBottomOf="@id/quote_tv"
         tools:text="author">
 
     </com.google.android.material.textview.MaterialTextView>
