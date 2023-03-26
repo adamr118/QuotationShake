@@ -46,12 +46,10 @@
     <com.google.android.material.appbar.MaterialToolbar
         android:id="@+id/tool_bar"
         tools:title="Get a new quotation"
+        app:titleTextColor="@color/colorBackground"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize" />
     </com.google.android.material.appbar.AppBarLayout>
-
-
-
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

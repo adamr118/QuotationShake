@@ -45,7 +45,7 @@
 
     <com.google.android.material.textview.MaterialTextView
         android:id="@+id/quote_tv"
-        tools:text="quote quote1 quote 2"
+        tools:text="quote quote1 quote 2 quote- quote1- quote 2 quote- ququote- quote1- quote 2quote- quote1- quote 2ote1- quote 2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:elevation="4dp"
@@ -68,7 +68,7 @@
         android:id="@+id/button_favourite"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom|end"
+        android:layout_gravity="bottom|start"
         android:visibility = "invisible"
         android:contentDescription="@string/button_of_favourite"
         android:src="@drawable/favorite_24">

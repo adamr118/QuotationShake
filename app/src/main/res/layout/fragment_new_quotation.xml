@@ -30,7 +30,6 @@
         android:id="@+id/author_name_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-
         android:layout_marginTop="12dp"
         android:textColor="@color/colorAccent"
         android:textSize="23sp"
@@ -45,7 +44,7 @@
 
     <com.google.android.material.textview.MaterialTextView
         android:id="@+id/quote_tv"
-        tools:text="quote quote1 quote 2"
+        tools:text="quote- quote1- quote 2 quote- quote1- quote 2 quote- quote1- quote 2 quote- quote1- quote 2 quote- quote1- quote 2 quote- quote1- quote 2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:elevation="4dp"
